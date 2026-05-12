@@ -1,0 +1,22 @@
+# Dataset
+data/
+
+# Virtual environment
+venv/
+
+# Saved model checkpoints
+*.keras
+*.h5
+*.pt
+*.pth
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
